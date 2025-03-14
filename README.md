@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
-<h3 align="center">🤖 Data Scientist & Machine Learning Enthusiast | Turning Data into Insights 🚀</h3>
+<h3 align="center">🤖 Data Science & Machine Learning Enthusiast | Turning Data into Insights 🚀</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
@@ -9,7 +9,7 @@
 
 
 ### 🌟 **About Me**
-- 📊 Passionate **Data Scientist & ML Engineer** with expertise in **AI, Deep Learning, and Data Analytics**.
+- 📊 Passionate about **AI**, **Machine Learning**, and **Data Science** while diving into the world of **Frontend Development**.
 - 🤖 Building and deploying **Machine Learning & Deep Learning models**.
 - 🛠️ Experienced in **Data Wrangling, Feature Engineering, and Model Optimization**.
 - 📈 Strong experience in **Data Visualization & Business Intelligence**.
@@ -34,6 +34,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stormworm9&show_icons=true&count_private=true&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=stormworm9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stormworm9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ## 🏅 Holopin Badges  
+[![Holopin Badges](https://holopin.me/stormworm9)](https://holopin.io/@stormworm9) -->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stormworm9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
